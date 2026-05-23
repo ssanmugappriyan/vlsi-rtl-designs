@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-module logic_gate_tb;
+module tb_logic_gate;
   reg a;
   reg b;
 
